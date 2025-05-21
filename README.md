@@ -30,3 +30,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shreyaravi0&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+![Snake animation](https://github.com/shreyaravi0/shreyaravi0/blob/output/dist/github-snake.svg)
+---
