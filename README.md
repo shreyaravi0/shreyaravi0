@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya!</h1>
 <h3 align="center">Sophomore in RVCE</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 - 🔭 I’m currently working on **Ship Detection**
 - 🌱 I’m currently learning **Game Development in Unity**
