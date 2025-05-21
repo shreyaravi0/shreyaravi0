@@ -19,7 +19,7 @@
 <p> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=draw.io&logoColor=white" /> <img src="https://img.shields.io/badge/Excalidraw-1D1D1D?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Eraser.io-blueviolet?style=flat" /> </p>
 🔌 Hardware & Embedded
 <p> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-blue?style=flat" /> </p>
----
+
 
 ### 📊 GitHub Stats
 ![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaravi0&show_icons=true&theme=tokyonight&count_private=true)
