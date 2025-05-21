@@ -20,3 +20,39 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at midnight UTC, you can change frequency
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shreyaravi0
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+       -  name: Commit and push snake images
+                run: |
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git checkout -b output || git checkout output
+                  mkdir -p dist
+                  mv dist/* dist/
+                  git add dist/
+                  git commit -m "Update snake contribution graph"
+                  git push -u origin output --force
+
+
+      
