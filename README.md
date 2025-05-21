@@ -30,5 +30,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shreyaravi0&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaravi0&layout=compact&theme=radical)
+---
 ![Snake animation](https://github.com/shreyaravi0/shreyaravi0/blob/output/dist/github-snake.svg)
 ---
