@@ -15,6 +15,8 @@
 <p> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/API%20Development-FF6F61?style=flat" /> </p>
 📈 Data & ML
 <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat" /> <img src="https://img.shields.io/badge/Detectron2-FFDB4D?style=flat" /> <img src="https://img.shields.io/badge/Florence-8A2BE2?style=flat" /> <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat&logo=scikitlearn&logoColor=white" /> </p>
+💻 Frontend
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> </p>
 🖼️ UI / Visualization
 <p> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Draw.io-FF9900?style=flat&logo=draw.io&logoColor=white" /> <img src="https://img.shields.io/badge/Excalidraw-1D1D1D?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Eraser.io-blueviolet?style=flat" /> </p>
 🔌 Hardware & Embedded
@@ -33,4 +35,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaravi0&layout=compact&theme=radical)
 ---
 ![Snake animation](https://github.com/shreyaravi0/shreyaravi0/blob/output/dist/github-snake.svg)
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>
+
+
 ---
